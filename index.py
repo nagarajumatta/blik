@@ -1,7 +1,7 @@
 import os
 import json
 import requests
-from flask import Flask, request, send_from_directory, render_template
+from flask import Flask, request, render_template
 from dotenv import load_dotenv
 import webbrowser
 
